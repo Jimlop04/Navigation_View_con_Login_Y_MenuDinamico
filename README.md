@@ -1,4 +1,4 @@
-# Navigation_View_con_Login_Y_MenuDinamico
+## Navigation_View_con_Login_Y_MenuDinamico
 ## LOGIN
 ![nav1](https://user-images.githubusercontent.com/87384300/182503988-981c5263-baba-4e6a-99b5-bea51fe8abc7.jpg)
 ## Ingreso Usuario 1
@@ -10,3 +10,4 @@
 ## Pantalla Principal del Usuario 2
 ![nav5](https://user-images.githubusercontent.com/87384300/182504217-ab8e18b7-5254-4dee-8708-8eaececb136f.jpg)
 ## Redacción Técnica ( Fragmento 2 )
+![nav6](https://user-images.githubusercontent.com/87384300/182504369-b7717b2a-e6b7-4998-84c2-dcbd1f7c1a27.jpg)
